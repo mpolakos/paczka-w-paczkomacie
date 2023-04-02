@@ -1,16 +1,8 @@
 ---
-title: Contact
+title: Kontakt
 layout: contact
-description: Contact
+description: Kontakt
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+<h1>Skontaktuj się z nami!</h1>
+Napisz wiadomość e-mail na kontakt[at]ideaapps.io
