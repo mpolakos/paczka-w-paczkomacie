@@ -5,4 +5,11 @@ description: Kontakt
 ---
 
 <h1>Skontaktuj się z nami!</h1>
-Napisz wiadomość e-mail na kontakt[at]ideaapps.io
+
+Jesteśmy otwarci na wszelkie potrzeby Naszych klientów.
+
+- jeśli brakuje Ci dodatkowej funkcji, pisz 🤔
+- gdybyś zauważył, że coś nie działa, pisz 😢
+- masz dodatkowe pytania co do istniejącej funkcjonalności, pisz 🙂
+
+Pisz wiadomość e-mail na **paczka-w-punkt-support[at]ideaapps.io**
