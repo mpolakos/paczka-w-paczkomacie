@@ -1,7 +1,7 @@
 main:
   - name: "FAQ"
     url: "/faq/"
-    weight: 2
+    weight: 1
   - name: "Kontakt"
     url: "/contact/"
     weight: 3
