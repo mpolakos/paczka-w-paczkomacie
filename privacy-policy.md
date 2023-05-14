@@ -7,7 +7,7 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Paczka w punkt
+# Paczka w paczkomacie
 
 # Polityka prywatności
 
@@ -17,7 +17,7 @@ intro_image_hide_on_mobile: false
 
 1.2. “Administrator” Administratorem danych osobowych, w rozumieniu Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.) (zwanego dalej „RODO”) jest właściciel sklepu internetowego korzystający z Aplikacji.
 
-1.3. „Aplikacja” Paczka w punkt to program stworzony do poprawy funkcjonalności sklepów internetowych, której głównym założeniem jest możliwość dokonania przez Korzystającego wyboru miejsca dostawy, znajdującego się najbliżej miejsca zamieszkania lub najbliżej innego wskazanego przez Korzystającego miejsca, które umożliwi Korzystającemu odbiór zamówionego towaru.
+1.3. „Aplikacja” Paczka w paczkomacie to program stworzony do poprawy funkcjonalności sklepów internetowych, której głównym założeniem jest możliwość dokonania przez Korzystającego wyboru miejsca dostawy, znajdującego się najbliżej miejsca zamieszkania lub najbliżej innego wskazanego przez Korzystającego miejsca, które umożliwi Korzystającemu odbiór zamówionego towaru.
 
 1.4. “Procesor” Procesorem danych osobowych jest twórca “Aplikacji” czyli firma ideaapps ul. Śląska 77, 41-403 Chełm Śląski NIP 5512455812, kontakt email: paczka-w-punkt-support@ideaapps.io
 
@@ -109,4 +109,4 @@ w celu korzystania z funkcjonalności Aplikacji.
 
 7.1. Każda aktualizacja Polityki Prywatności będzie wiązała się z powiadomieniem Administratora przez e-mail.
 
-7.2 Aktualna Polityka Prywatności jest dostępna również na stronie [paczka w punkt](https://mpolakos.github.io/paczka-w-punkt/privacy-policy/)
+7.2 Aktualna Polityka Prywatności jest dostępna również na stronie [paczka w paczkomacie](https://mpolakos.github.io/paczka-w-paczkomacie/privacy-policy/)
