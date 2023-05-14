@@ -19,7 +19,7 @@ intro_image_hide_on_mobile: false
 
 1.3. „Aplikacja” Paczka w paczkomacie to program stworzony do poprawy funkcjonalności sklepów internetowych, której głównym założeniem jest możliwość dokonania przez Korzystającego wyboru miejsca dostawy, znajdującego się najbliżej miejsca zamieszkania lub najbliżej innego wskazanego przez Korzystającego miejsca, które umożliwi Korzystającemu odbiór zamówionego towaru.
 
-1.4. “Procesor” Procesorem danych osobowych jest twórca “Aplikacji” czyli firma ideaapps ul. Śląska 77, 41-403 Chełm Śląski NIP 5512455812, kontakt email: paczka-w-punkt-support@ideaapps.io
+1.4. “Procesor” Procesorem danych osobowych jest twórca “Aplikacji” czyli firma ideaapps ul. Śląska 77, 41-403 Chełm Śląski NIP 5512455812, kontakt email: paczka-w-paczkomacie-support@ideaapps.io
 
 1.5. “Podprocesor” to podmiot, z którym współpracuje Procesor, przekazuje mu Dane w stopniu niezbędnym do realizacji zadań i jest niezbędny do prawidłowego wykonania przedmiotu Umowy zawartej pomiędzy Administratorem a Procesorem. (informacja wyjaśniająca: jest to np. partner technologiczny świadczący usługi hostingowe, na których znajduje się oprogramowanie Aplikacji).
 
@@ -109,4 +109,4 @@ w celu korzystania z funkcjonalności Aplikacji.
 
 7.1. Każda aktualizacja Polityki Prywatności będzie wiązała się z powiadomieniem Administratora przez e-mail.
 
-7.2 Aktualna Polityka Prywatności jest dostępna również na stronie [paczka w paczkomacie](https://mpolakos.github.io/paczka-w-paczkomacie/privacy-policy/)
+7.2 Aktualna Polityka Prywatności jest dostępna również na stronie [paczka w punkt](https://mpolakos.github.io/paczka-w-paczkomacie/privacy-policy/)

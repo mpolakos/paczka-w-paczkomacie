@@ -12,4 +12,4 @@ Jesteśmy otwarci na wszelkie potrzeby Naszych klientów.
 - gdybyś zauważył, że coś nie działa, pisz 😢
 - masz dodatkowe pytania co do istniejącej funkcjonalności, pisz 🙂
 
-Pisz wiadomość e-mail na **paczka-w-punkt-support[at]ideaapps.io**
+Pisz wiadomość e-mail na **paczka-w-paczkomacie-support[at]ideaapps.io**
