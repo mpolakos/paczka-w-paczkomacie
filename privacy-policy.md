@@ -109,4 +109,4 @@ w celu korzystania z funkcjonalności Aplikacji.
 
 7.1. Każda aktualizacja Polityki Prywatności będzie wiązała się z powiadomieniem Administratora przez e-mail.
 
-7.2 Aktualna Polityka Prywatności jest dostępna również na stronie [paczka w punkt](https://mpolakos.github.io/paczka-w-paczkomacie/privacy-policy/)
+7.2 Aktualna Polityka Prywatności jest dostępna również na stronie [paczka w paczkomacie](https://mpolakos.github.io/paczka-w-paczkomacie/privacy-policy/)

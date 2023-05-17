@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# InPost Paczka w paczkomacie!
+# Shopify InPost Paczka w paczkomacie!
 
-Nadawaj paczki do paczkomatów InPost szybko i wygodnie.
+Pozwól twoim klientom kupować produkty z twojego sklepu z wysyłką do paczkomatów InPost, a sobie na łatwy i wygodny sposób ich nadawania.

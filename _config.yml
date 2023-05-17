@@ -1,6 +1,6 @@
-baseurl: "/paczka-w-punkt/"
+baseurl: "/paczka-w-paczkomacie/"
 permalink: pretty
-title: "Shopify Paczka w punkt"
+title: "Shopify InPost Paczka w paczkomacie"
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
